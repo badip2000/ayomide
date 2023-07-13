@@ -1,0 +1,2 @@
+# ayomide
+my first repository
